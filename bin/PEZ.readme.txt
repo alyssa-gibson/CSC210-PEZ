@@ -1,0 +1,14 @@
+Author: Alyssa Gibson
+Created: September 22nd, 2018
+
+HOW TO USE MY PEZ DISPENSER PROGRAM:
+   -To get a demo of every required method used, simply run the main method in 	main method in Main.java.
+	ORDER: Print(), Pop(), Push([int]), ReversePrint(), Sum([Dispenser].getHead(), [Dispenser].getCount()).
+
+   -To push your own number instead of (or before/after) 3, either modify the
+	int topush in Main.java's main or add a line with d.Push([int]);
+
+   -As explained in code's comments: I used a bound of 100 for the random number generation to prevent 
+	the program from hanging. You can remove that bound if desired.
+
+Enjoy your delicious random number candy!
